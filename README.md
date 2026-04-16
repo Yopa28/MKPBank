@@ -33,6 +33,9 @@ To run this project locally:
 
 ## 📷 Screenshots
 
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/36d70083-3655-419d-a5f2-341a542962ea" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3af66dfb-cc54-4b2b-b2b5-e339cd6aa55b" />
+
 
 
 ---
